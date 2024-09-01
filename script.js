@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 closedImg.classList.add('envelope-img', 'closed');
 
                 const openImg = document.createElement('img');
-                openImg.src = 'Open-envelope.png';
+                openImg.src = 'open-envelope.png';
                 openImg.alt = email.title;
                 openImg.classList.add('envelope-img', 'open');
 
