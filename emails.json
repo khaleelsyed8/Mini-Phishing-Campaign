@@ -1,0 +1,25 @@
+{
+    "emails": [
+        {
+            "id": 1,
+            "title": "#1 Tax Scam Phish",
+            "from": "no-reply@taxauthority.gov",
+            "subject": "Urgent: Action Required for Unpaid Taxes",
+            "body": "Dear Taxpayer,<br><br>Our records indicate that you have an outstanding balance for unpaid taxes. Immediate action is required to avoid penalties and legal actions.<br><br>Please click the link below to review your account and make a payment:<br><br><a href=\"http://fake-tax-authority.com/payment\">Click here to review your account</a><br><br>Failure to respond within 7 days will result in additional fines and possible legal action.<br><br>Thank you for your prompt attention to this matter.<br><br>Sincerely,<br><br>The Tax Authority"
+        },
+        {
+            "id": 2,
+            "title": "#2 Job Scam Phish",
+            "from": "hr@googIe.com",
+            "subject": "Congratulations! You've Been Shortlisted for Google",
+            "body": "Dear Applicant,<br><br>We are pleased to inform you that you have been selected for the position of Senior Project Manager at Google India. with an annual package of ₹50,20,000.<br><br>Your skills and experience are a perfect match for our needs, and we are excited to bring you on board. Please find the attached contract and fill in your personal details, including your bank account information for salary processing.<br><br><a href=\"http://fake-huge-company.com/contract\">Click here to download the contract<a><br><br>We need the completed forms back within 48 hours to proceed with your onboarding. Failure to respond in time will result in the offer being withdrawn.<br><br>We look forward to having you as part of our team.<br><br>Best regards,<br><br>HR Department<br>Huge Company Inc."
+        },
+        {
+            "id": 3,
+            "title": "#3 Lottery Scam Phish",
+            "from": "lottery@international-lotto.com",
+            "subject": "Congratulations! You've Won the International Lottery",
+            "body": "Dear Winner,<br><br>We are thrilled to inform you that you have been selected as the winner of the International Lottery! You have won a cash prize of ₹10,00,00,000 (Ten Crore Rupees).<br><br>To claim your prize, please provide us with your full name, address, date of birth, and bank account details. This information is necessary to process your winnings and transfer the funds to your account.<br><br><a href=\"http://fake-lottery.com/claim)\">Click here to claim your prize</a><br><br>Please note that you must respond within 7 days to claim your prize, or it will be forfeited.<br><br>Congratulations once again, and we look forward to your prompt response.<br><br>Best regards,<br><br>The International Lottery Team"
+        }
+    ]
+}
